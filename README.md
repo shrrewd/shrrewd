@@ -1,11 +1,15 @@
-## Hi there 👋
-[![shrrewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrrewd)](https://github.com/anuraghazra/github-readme-stats)
-
+<h1 align="center">## Hi, I am Ashish Verma 👋</h1>
 
 - 🔭 I’m currently working on developing personal portfolio website
+
 - 🌱 I’m currently learning Amazon Web Services
+
 - 📫 How to reach me: <a href="ashishverma527@gmail.com">ashishverma527@gmail.com</a>
-- 😄 Pronouns: He/Him
+
+[![shrrewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrrewd&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
