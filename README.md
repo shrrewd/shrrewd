@@ -4,10 +4,14 @@
 
 - 🌱 I’m currently learning Amazon Web Services
 
+- ⚡ Previous Projects:
+    - <a href="https://github.com/shrrewd/contactless-entry-and-attendance-system-using-deep-net-facial-recognition-of-employees">Contactless Entry and Attendance System using Deep-Net Facial Recognition of Employees</a>
+    - More to be added..
+
 - 📫 How to reach me: <a href="ashishverma527@gmail.com">ashishverma527@gmail.com</a>
 
 
-[![shrrewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrrewd&theme=react&show_icons=true)]
+![shrrewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrrewd&theme=react&show_icons=true)
 
 
 
