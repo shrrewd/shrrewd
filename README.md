@@ -12,7 +12,7 @@
     - <a href="https://github.com/shrrewd/contactless-entry-and-attendance-system-using-deep-net-facial-recognition-of-employees">Contactless Entry and Attendance System using Deep-Net Facial Recognition of Employees</a>
     - More to be added..
 
-- 📫 How to reach me: <a href="ashishverma527@gmail.com">ashishverma527@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:ashishverma527@gmail.com">ashishverma527@gmail.com</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrrewd&show_icons=true&theme=react)
 
