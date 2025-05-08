@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I am Ashish Verma</h1>
-<img src="./cat.gif" align="center">
+<img src="./cat.gif" width="100" height="100" align="middle">
 
 - 🔭 I’m currently working on developing <strong>Personal Portfolio Website</strong>
 
