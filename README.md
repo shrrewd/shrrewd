@@ -1,4 +1,4 @@
-<h1 align="center">## Hi, I am Ashish Verma 👋</h1>
+<h1 align="center">Hi👋, I am Ashish Verma</h1>
 
 - 🔭 I’m currently working on developing personal portfolio website
 
@@ -6,7 +6,8 @@
 
 - 📫 How to reach me: <a href="ashishverma527@gmail.com">ashishverma527@gmail.com</a>
 
-[![shrrewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrrewd&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+[![shrrewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrrewd&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
