@@ -14,7 +14,8 @@
 
 - 📫 How to reach me: <a href="ashishverma527@gmail.com">ashishverma527@gmail.com</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrrewd&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrrewd&show_icons=true&theme=react)
+
 ![shrrewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrrewd&theme=react&show_icons=true)
 
 
