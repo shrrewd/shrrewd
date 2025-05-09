@@ -10,7 +10,8 @@
 
 - ⚡ Previous Projects:
     - <a href="https://github.com/shrrewd/contactless-entry-and-attendance-system-using-deep-net-facial-recognition-of-employees">Contactless Entry and Attendance System using Deep-Net Facial Recognition of Employees</a>
-    - More to be added..
+    - Minecraft Java Neoforge Server Hosted on Oracle Cloud with a frontend management panel(Personal Project)
+    - More to be added
 
 - 📫 How to reach me: <a href="mailto:ashishverma527@gmail.com">ashishverma527@gmail.com</a>
 
