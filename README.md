@@ -15,9 +15,9 @@
 
 -  How to reach me: <a href="mailto:ashishverma527@gmail.com">ashishverma527@gmail.com</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrrewd&show_icons=true&theme=react)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=shrrewd&show_icons=true&theme=react)
 
-![shrrewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrrewd&theme=react&show_icons=true)
+![shrrewd's GitHub stats](https://github-stats-extended.vercel.app/api?username=shrrewd&theme=react&show_icons=true)
 
 ![shrrewd's Views](https://komarev.com/ghpvc/?username=shrrewd&colour=57bcda)
 
