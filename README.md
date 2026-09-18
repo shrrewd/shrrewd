@@ -4,7 +4,7 @@
   <img src="./cat.gif" alt="cat gif" style="background-color:transparent" width="100"/>
 </p>
 
--  I’m currently developing <strong>Personal Portfolio Website</strong>
+-  I’m currently developing <strong><a href="https://shrrewd.me">Personal Portfolio Website</a></strong>
 
 -  I’m currently learning Amazon Web Services
 
